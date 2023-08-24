@@ -1,0 +1,12 @@
+# Individual Files to ignore - e.g. Logs
+*.log
+*.code-workspace
+*.csv
+*.bin
+
+# Subdirs to ignore
+bak/
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+# n/a
